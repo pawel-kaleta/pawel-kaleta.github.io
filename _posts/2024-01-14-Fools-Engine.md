@@ -13,7 +13,7 @@ Check out the github page for more details.
 
 [![GitHub](https://img.shields.io/badge/GitHub--red.svg?style=social&logo=github)](https://github.com/pawel-kaleta/FoolsEngine)
 
-## Here's some cool stuff I did:
+### Here's some cool stuff I did:
 
 - IoC (inversion of control) using layers stack
 - Cross-platform OSI (operating system interoperability) abstraction layer: window, events, input
