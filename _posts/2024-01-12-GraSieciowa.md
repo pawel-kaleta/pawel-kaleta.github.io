@@ -3,10 +3,10 @@ layout: post
 title:  "GraSieciowa"
 summary: "C++ dueling game via LAN"
 date:   2022-10-06 15:39:40
-preview: /assets/GraSieciowa.png
+preview: /assets/GraSieciowa.jpg
 ---
 
-![Picture 1](/assets/GraSieciowa.png)
+![Picture 1](/assets/GraSieciowa.jpg)
 
 Simple, top-down view dueling shooter game for two players via LAN written in C++. I created my own (lame, but working) technical solution for handling LAN multiplayer without any experience or guidance.
 
