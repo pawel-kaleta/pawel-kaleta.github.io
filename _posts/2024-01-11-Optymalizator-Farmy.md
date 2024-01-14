@@ -12,7 +12,7 @@ preview: /assets/OptymalizatorFarmy.png
 
 [![GitHub](https://img.shields.io/badge/GitHub--red.svg?style=social&logo=github)](https://github.com/pawel-kaleta/TribalWars/blob/master/Optymalizator_Farmy.js)
 
-## Here’s some cool stuff I did:
+### Here’s some cool stuff I did:
 
 -	complex, internationalized GUI integrated with the game both functionally and visually
 - communication with a game server for data loading and performing gameplay actions 
