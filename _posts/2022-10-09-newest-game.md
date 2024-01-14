@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Fools Engine"
-summary: "C++ Game Engine [![GitHub](https://img.shields.io/badge/GitHub--red.svg?style=social&logo=github)](https://github.com/pawel-kaleta/FoolsEngine)"
+summary: "C++ Game Engine"
 date:   2022-10-09 15:39:40
 preview: /assets/FoolsEngine.jpg
 ---
 
 ![Picture 1](/assets/FoolsEngine.jpg)
 
-A germ of a game engine being written in C++ (ongoing). I believe, despite its early development stage, it **represents most accurately my current knowledge of C++ and coding principles and practices**. It allows me to constantly improve my programming skills.
+A germ of a game engine being written in C++ (ongoing). I believe, despite its early development stage, it **represents most accurately my current knowledge of C++ and coding principles and practices**. It allows me to constantly improve my programming skills by facing challenging problems from every aspect of game development.
 Check out the github page for more details.
 
 [![GitHub](https://img.shields.io/badge/GitHub--red.svg?style=social&logo=github)](https://github.com/pawel-kaleta/FoolsEngine)
