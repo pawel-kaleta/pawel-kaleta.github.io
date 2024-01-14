@@ -8,7 +8,7 @@ preview: /assets/DysponentSurowcowy.png
 
 ![Picture 1](/assets/DysponentSurowcowy_Full.png)
 
-“Resources Administrator”, a tool for an MMO RTS browser game Tribal Wars written in JavaScript. It is officially approved for usage by the staff of the polish version of the game and I keep updating and supporting it (v2.1.1.0 is live). It got quite the attention of the community and was received unanimously positively. 
+“Resources Administrator”, a tool for an MMO RTS browser game Tribal Wars written in **JavaScript**. It is officially approved for usage by the staff of the polish version of the game and I keep updating and supporting it (v2.1.1.0 is live). It got quite the attention of the community and was received unanimously positively. 
 
 [![GitHub](https://img.shields.io/badge/GitHub--red.svg?style=social&logo=github)](https://github.com/pawel-kaleta/TribalWars/blob/master/Dysponent_Surowcowy_2.js)
 
