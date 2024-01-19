@@ -23,3 +23,4 @@ Check out the github page for more details.
 - Hybrid Actor/GameObject/ECS scene representation model - authorial architectural design (check out documentation folder in github repository)
 - Simple 2D batch renderer in OpenGL
 - Editor features: overall UI setup, viewport and camera, panels: performance stats, scene hierarchy, actor inspector, entity inspector 
+- Serialization and deserialization (YAML format)
