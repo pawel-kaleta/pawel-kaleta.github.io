@@ -18,10 +18,12 @@ Check out the github page for more details.
 - IoC (inversion of control) using layers stack
 - Cross-platform OSI (operating system interoperability) abstraction layer: window, events, input
 - Windows specific implementation of the above using GLFW
+- Buffered events system
 - Dear ImGui integration
 - Debugging functionalities: logging (spdlog), profiling (Chrome event tracing tool), assertions
-- Hybrid Actor/GameObject/ECS scene representation and execution model - authorial architectural design (check out documentation folder in github repository)
+- Hybrid Actor/GameObject/ECS scene representation and execution model - authorial design (check out documentation folder in github repository)
 - Simple 2D batch renderer in OpenGL
-- Editor features: overall UI setup, viewport and camera, panels: performance stats, scene hierarchy, multiple object inspectors, content browser
+- Editor features: overall UI setup, edit and play viewports, editor camera, edit and play modes, mouse picking, transform gizmos
+- Editor UI panels: performance stats, scene hierarchy, multiple inspectors, content browser
 - Serialization and deserialization (YAML format)
 - ECS-based assets system
