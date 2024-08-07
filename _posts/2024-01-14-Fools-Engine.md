@@ -20,7 +20,8 @@ Check out the github page for more details.
 - Windows specific implementation of the above using GLFW
 - Dear ImGui integration
 - Debugging functionalities: logging (spdlog), profiling (Chrome event tracing tool), assertions
-- Hybrid Actor/GameObject/ECS scene representation model - authorial architectural design (check out documentation folder in github repository)
+- Hybrid Actor/GameObject/ECS scene representation and execution model - authorial architectural design (check out documentation folder in github repository)
 - Simple 2D batch renderer in OpenGL
-- Editor features: overall UI setup, viewport and camera, panels: performance stats, scene hierarchy, actor inspector, entity inspector 
+- Editor features: overall UI setup, viewport and camera, panels: performance stats, scene hierarchy, multiple object inspectors, content browser
 - Serialization and deserialization (YAML format)
+- ECS-based assets system
